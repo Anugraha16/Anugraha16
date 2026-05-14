@@ -4,7 +4,7 @@
 👀 I’m interested in exploring new technologies and working on projects that challenge me to grow.
 
 ## Currently Learning
-🌱 I'm currently delving into full-stack development, honing my skills in both frontend and backend technologies. From crafting responsive user interfaces with HTML, CSS, and JavaScript to building robust server-side applications with frameworks like Node.js and Express.js. I'm dedicated to mastering the entire web development stack.
+🌱 I'm currently delving into full-stack development, honing my skills in both frontend and backend technologies. From crafting responsive user interfaces with HTML, CSS, Java, JavaScript and TypeScript to building robust server-side applications with frameworks like Node.js, Express.js and SpringBoot. I'm dedicated to mastering the entire web development stack.
 
 ## Collaboration Opportunities
 💞️ I’m looking to collaborate on projects related to machine learning, data science, and software development. Feel free to reach out if you have exciting projects to work on together!
